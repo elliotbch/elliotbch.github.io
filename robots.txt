@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Allow: /
 
-Sitemap: https://vinodjangid.site/sitemap.xml
+Sitemap: https://elliotbch.github.io/sitemap.xml
